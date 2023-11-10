@@ -1,0 +1,1 @@
+SELECT * FROM `sporty-shoes`.products;
