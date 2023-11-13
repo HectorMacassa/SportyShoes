@@ -11,8 +11,6 @@ This project aims to design and develop an E-commerce Website for Sporty Shoes u
 
 •	CSS: to format the contents.
 
-•	Bootstrap: to use some CSS and JavaScript designs.
-
 •	Maven: to manage the project.
 
 •	Eclipse: to write and run the code.
