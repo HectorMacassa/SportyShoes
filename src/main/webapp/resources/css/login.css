@@ -5,12 +5,13 @@ Body {
 }  
 
 h1 {
-	font-family: Roboto, sans-serif;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	font-size: xx-large;
 }
 
 button {   
 	  justify-content: center;
-       background-color: rgb(0, 0, 255);   
+       background-color: rgb(64, 0, 64);   
        width: 100%;  
         color: white;   
         padding: 15px;   
@@ -20,8 +21,8 @@ button {
          }  
           
  form {   
-        border: 0px solid black;
- 		width: 20%;
+        border: 1px solid rgb(64, 0, 64);
+ 		width: 35%;
  		margin: 0 auto;
     }   
  input[type=text], input[type=password] {  
@@ -30,7 +31,7 @@ button {
         margin: 8px 0;  
         padding: 12px 20px;   
         display: inline-block;   
-        border: 2px solid green;   
+        border: 2px solid rgb(64, 0, 64);   
         box-sizing: border-box;   
     }  
  button:hover {   
@@ -43,5 +44,5 @@ button {
   		  
   justify-content: center;
         padding: 15px;   
-        background-color: rgb(192, 192, 192);  
+        background-color: rgb(255, 255, 255);  
     }   

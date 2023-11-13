@@ -2,7 +2,7 @@
 
 <div class="sidenav col-lg-2 d-flex flex-column h-100">
 	<h4 id="logo">
-		Sporty<br />Shoes Store
+		Main Menu<br />
 	</h4>
 
 	<c:choose>

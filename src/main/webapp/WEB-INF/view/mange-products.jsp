@@ -3,7 +3,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>List of Classes</title>
+<title>Manage Products</title>
 <link type="text/css" rel="stylesheet" href="../resources/css/style.css">
 
 <link rel="stylesheet"
@@ -68,7 +68,7 @@
 									class="card-body">
 									<h5 class="card-title">${product.name}</h5>
 									<p class="card-text">
-										${product.company}<br>${product.size} inches<br>${product.price}$
+										${product.company}<br>${product.size} Sizes Available<br>$${product.price}
 									</p>
 
 

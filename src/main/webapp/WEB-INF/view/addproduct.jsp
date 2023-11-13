@@ -3,7 +3,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>List of Classes</title>
+<title>Add Products</title>
 <link type="text/css" rel="stylesheet" href="../resources/css/style.css">
 <link type="text/css" rel="stylesheet" href="../resources/css/login.css">
 

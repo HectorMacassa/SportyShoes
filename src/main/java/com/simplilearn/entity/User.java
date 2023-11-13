@@ -31,7 +31,7 @@ public class User {
 	@Column(name="password")
 	private String password;
 	
-	@Range(min=1, max=120,message = "Invalied Age") 
+	@Range(min=1, max=120,message = "Invalid Age") 
 	 
 	@Column(name="age")
 	private int age;
